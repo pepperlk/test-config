@@ -1,1 +1,3 @@
-ArcgisServer: test.com/server
+ArcgisServer: test.com/server1
+TestServer:
+  Test1: blah
